@@ -3,9 +3,8 @@ layout: about
 title: "Biography"
 permalink: /about/
 author_profile: true
-redirect_from:
-  - /about.html
 ---
+
 
 <font size=3> I am currently a second-year Ph.D. student at Harbin Institute of Technology supervised by</font> [<font size=3> Gongning Luo </font>](https://homepage.hit.edu.cn/luogongning?lang=zh). <font size=3> I have published a total of 2 Chinese patents and 4 peer-reviewed journal/conference articles, including CVPR, IEEE J-BHI, IEEE TFS etc.</font>
 
