@@ -2,7 +2,7 @@
 I am currently a second-year Ph.D. student at Harbin Institute of Technology supervised by Gongning Luo. I have published a total of 2 Chinese patents and 4 peer-reviewed journal/conference articles, including CVPR, IEEE J-BHI, IEEE TFS etc.
 
 ## Research Interests
-My major research interest are medical image analysis and computer vision. My special focuses include: (1) Ambiguous medical image analysis segmentation; (2) Ultrasound Localization Microscopy; (3) Quality control for multimodal medical imaging.
+My major research interest are medical image analysis and computer vision. My special focuses include: (1) Ambiguous medical image segmentation; (2) Ultrasound Localization Microscopy; (3) Quality control for multimodal medical imaging.
 
 ## News
 
