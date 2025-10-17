@@ -18,21 +18,21 @@ News
 
 Education
 ======
-<font size=3> - 2024-now Ph.D. Candidate, Faculty of Computing, Harbin Institute of Technology, China</font>
-<font size=3> - 2020-2024 B.S. Degree, School of Future Technology, Harbin Institute of Technology, China</font>
+ - <font size=3> 2024-now Ph.D. Candidate, Faculty of Computing, Harbin Institute of Technology, China</font>
+ - <font size=3> 2020-2024 B.S. Degree, School of Future Technology, Harbin Institute of Technology, China</font>
 
 Awards and Honors
 ======
-<font size=3> - Outstanding Graduate, Harbin Institute of Technology, 2024</font>
-<font size=3> - Outstanding Graduation Thesis, Harbin Institute of Technology, 2024</font>
-<font size=3> - University Scholarship, Harbin Institute of Technology (6 times)</font>
-<font size=3> - Outstanding Student Leader, Harbin Institute of Technology, 2022, 2023</font>
+- <font size=3> Outstanding Graduate, Harbin Institute of Technology, 2024</font>
+- <font size=3> Outstanding Graduation Thesis, Harbin Institute of Technology, 2024</font>
+- <font size=3> University Scholarship, Harbin Institute of Technology (6 times)</font>
+- <font size=3> Outstanding Student Leader, Harbin Institute of Technology, 2022, 2023</font>
 
 Representative Publications
 ======
 
 Selected Publications
 ======
-<font size=3> - Xingyu Qiu, Mengying Yang, Xinghua Ma, **Fanding Li**, et al. Finding Local Diffusion Schrodinger Bridge using Kolmogorov-Arnold Network. Proceedings of the Computer Vision and Pattern Recognition Conference(CVPR). 2025: 23227-23236 **(Top Conference)**.</font>
-<font size=3> - Xinjie Liang, Xiangyu Li, **Fanding Li**, et al. Medfilip: Medical fine-grained language-image pre-training. IEEE Journal of Biomedical and Health Informatics, 2025 **(JCR Q1, IF=7.7)**.</font>
-<font size=3> - Murong Zhou, Baifu Zuo, Guohua Wang, Gongning Luo, **Fanding Li**, et al. Adjacency-Aware Fuzzy Label Learning for Skin Disease Diagnosis[J]. IEEE Transactions on Fuzzy Systems, 2024 **(JCR Q1, IF=11.9)**.</font>
+- <font size=3> Xingyu Qiu, Mengying Yang, Xinghua Ma, **Fanding Li**, et al. Finding Local Diffusion Schrodinger Bridge using Kolmogorov-Arnold Network. Proceedings of the Computer Vision and Pattern Recognition Conference(CVPR). 2025: 23227-23236 **(Top Conference)**.</font>
+- <font size=3> Xinjie Liang, Xiangyu Li, **Fanding Li**, et al. Medfilip: Medical fine-grained language-image pre-training. IEEE Journal of Biomedical and Health Informatics, 2025 **(JCR Q1, IF=7.7)**.</font>
+- <font size=3> Murong Zhou, Baifu Zuo, Guohua Wang, Gongning Luo, **Fanding Li**, et al. Adjacency-Aware Fuzzy Label Learning for Skin Disease Diagnosis[J]. IEEE Transactions on Fuzzy Systems, 2024 **(JCR Q1, IF=11.9)**.</font>
