@@ -355,3 +355,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Disable the top navigation bar
+header_pages: []
