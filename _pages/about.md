@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Biography"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 ## Biography
 I am currently a second-year Ph.D. student at Harbin Institute of Technology supervised by Gongning Luo. I have published a total of 2 Chinese patents and 4 peer-reviewed journal/conference articles, including CVPR, IEEE J-BHI, IEEE TFS etc.
 
