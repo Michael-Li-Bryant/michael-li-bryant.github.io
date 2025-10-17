@@ -33,6 +33,6 @@ Representative Publications
 
 Selected Publications
 ======
-- <font size=3> Xingyu Qiu, Mengying Yang, Xinghua Ma, **Fanding Li**, et al. Finding Local Diffusion Schrodinger Bridge using Kolmogorov-Arnold Network. Proceedings of the Computer Vision and Pattern Recognition Conference(CVPR). 2025: 23227-23236 **(Top Conference)**.</font>
-- <font size=3> Xinjie Liang, Xiangyu Li, **Fanding Li**, et al. Medfilip: Medical fine-grained language-image pre-training. IEEE Journal of Biomedical and Health Informatics, 2025 **(JCR Q1, IF=7.7)**.</font>
-- <font size=3> Murong Zhou, Baifu Zuo, Guohua Wang, Gongning Luo, **Fanding Li**, et al. Adjacency-Aware Fuzzy Label Learning for Skin Disease Diagnosis[J]. IEEE Transactions on Fuzzy Systems, 2024 **(JCR Q1, IF=11.9)**.</font>
+- <font size=3> Xingyu Qiu, Mengying Yang, Xinghua Ma, </font>**<font size=3>Fanding Li</font>**<font size=3>, et al. Finding Local Diffusion Schrodinger Bridge using Kolmogorov-Arnold Network. Proceedings of the Computer Vision and Pattern Recognition Conference(CVPR). 2025: 23227-23236 **(Top Conference)**.</font>
+- <font size=3> Xinjie Liang, Xiangyu Li, </font>**<font size=3>Fanding Li</font>**<font size=3>, et al. Medfilip: Medical fine-grained language-image pre-training. IEEE Journal of Biomedical and Health Informatics, 2025 **(JCR Q1, IF=7.7)**.</font>
+- <font size=3> Murong Zhou, Baifu Zuo, Guohua Wang, Gongning Luo, </font>**<font size=3>Fanding Li</font>**<font size=3>, et al. Adjacency-Aware Fuzzy Label Learning for Skin Disease Diagnosis[J]. IEEE Transactions on Fuzzy Systems, 2024 **(JCR Q1, IF=11.9)**.</font>
