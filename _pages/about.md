@@ -14,7 +14,7 @@ Research Interests
 
 News
 ======
-<font size=3></font>
+<font size=3> One paper was selected as AAAI-26 Oral Presentation. </font>
 
 Education
 ======
@@ -30,6 +30,7 @@ Awards and Honors
 
 Representative Publications
 ======
+- <span style="font-size:16px;"><b>Fanding Li</b>, Xiangyu Li, Xianghe Su, et al. Ambiguity-aware Truncated Flow Matching for Ambiguous Medical Image Segmentation. Proceedings of the AAAI Conference on Artificial Intelligence 40 (AAAI). <b>(Top Conference, Oral Presentation)</b></span>
 
 Selected Publications
 ======
