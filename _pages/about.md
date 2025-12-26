@@ -14,7 +14,7 @@ Research Interests
 
 News
 ======
-<font size=3> One paper was selected as AAAI-26 Oral Presentation. </font>
+<font size=3> 2025-11 One paper was selected as AAAI-26 Oral Presentation. </font>
 
 Education
 ======
