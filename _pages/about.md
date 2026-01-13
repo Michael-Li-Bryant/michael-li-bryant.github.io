@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<font size=3> I am currently a second-year Ph.D. student at Harbin Institute of Technology supervised by Professor </font> [<font size=3>Gongning Luo</font>](https://homepage.hit.edu.cn/luogongning?lang=zh). <font size=3> I have published a total of 3 Chinese patents and 5 peer-reviewed journal/conference articles, including AAAI, CVPR, IEEE J-BHI, IEEE TFS etc.</font>
+<font size=3> I am currently a second-year Ph.D. student at Harbin Institute of Technology supervised by Professor </font> [<font size=3>Gongning Luo</font>](https://homepage.hit.edu.cn/luogongning?lang=zh). <font size=3> I also work closely with Professor Kuanquan Wang, Xiangyu Li and Shuo Li. I have published a total of 3 Chinese patents and 5 peer-reviewed journal/conference articles, including AAAI, CVPR, IEEE J-BHI, IEEE TFS etc.</font>
 
 Research Interests
 ======
@@ -15,6 +15,8 @@ Research Interests
 News
 ======
  - <font size=3> 2025-11 One paper was selected as AAAI-26 Oral Presentation. </font>
+
+ - <font size=3> 2026-1 One paper was selected as IEEE ISBI 2026 Presentation. </font>
 
 Education
 ======
@@ -31,6 +33,7 @@ Awards and Honors
 Representative Publications
 ======
 - <span style="font-size:16px;"><b>Fanding Li</b>, Xiangyu Li, Xianghe Su, et al. Ambiguity-aware Truncated Flow Matching for Ambiguous Medical Image Segmentation. Proceedings of the AAAI Conference on Artificial Intelligence 40 (AAAI). <b>(Top Conference, Oral Presentation)</b></span>
+- <span style="font-size:16px;">Xiangyu Li, <b>Fanding Li</b>, Yifan Liu, et al. ResDiff: Residual Diffusion Model for Conditional Distribution Learning in Medical Image Segmentation. IEEE ISBI, 2026. <b>(CCF-C Conference, first student contributor)</b></span>
 
 Selected Publications
 ======
@@ -39,3 +42,5 @@ Selected Publications
 - <span style="font-size:16px;">Xinjie Liang, Xiangyu Li, <b>Fanding Li</b>, et al. Medfilip: Medical fine-grained language-image pre-training. IEEE Journal of Biomedical and Health Informatics, 2025. <b>(JCR Q1, IF=7.7)</b></span>
 
 - <span style="font-size:16px;">Murong Zhou, Baifu Zuo, Guohua Wang, Gongning Luo, <b>Fanding Li</b>, et al. Adjacency-Aware Fuzzy Label Learning for Skin Disease Diagnosis [J]. IEEE Transactions on Fuzzy Systems, 2024. <b>(JCR Q1, IF=11.9)</b></span>
+
+- <span style="font-size:16px;">Xiangyu Li, Chenglin Wang, Qiantong Shen, <b>Fanding Li</b>, et al. PCA-Enhanced Probabilistic U-Net for Effective Ambiguous Medical Image Segmentation. IEEE ISBI, 2026. <b>(CCF-C Conference)</b></span>
