@@ -16,7 +16,7 @@ News
 ======
  - <font size=3> 2025-11 One paper was selected as AAAI-26 Oral Presentation. </font>
 
- - <font size=3> 2026-1 One paper was selected as IEEE ISBI 2026 Presentation. </font>
+ - <font size=3> 2026-01 One paper was selected as IEEE ISBI 2026 Presentation. </font>
 
 Education
 ======
