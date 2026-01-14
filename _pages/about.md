@@ -10,7 +10,7 @@ redirect_from:
 
 Research Interests
 ======
-<font size=3> My major research interest are medical image analysis and computer vision. My special focuses include: (1) Ambiguous medical image segmentation; (2) Ultrasound Localization Microscopy; (3) Quality control for multimodal medical imaging.</font>
+<font size=3> My major research interest are medical image analysis and computer vision. My special focuses include: (1) Ambiguous medical image segmentation; (2) Ultrasound Localization Microscopy; (3) Quality control for multimodal medical imaging.</font> 
 
 News
 ======
