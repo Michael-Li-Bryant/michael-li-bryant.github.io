@@ -25,6 +25,7 @@ Education
 
 Awards and Honors
 ======
+- <font size=3> National Longhu Scholarship, 2025</font>
 - <font size=3> Outstanding Graduate, Harbin Institute of Technology, 2024</font>
 - <font size=3> Outstanding Graduation Thesis, Harbin Institute of Technology, 2024</font>
 - <font size=3> University Scholarship, Harbin Institute of Technology (6 times)</font>
