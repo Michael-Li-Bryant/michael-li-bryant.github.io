@@ -45,3 +45,10 @@ Selected Publications
 - <span style="font-size:16px;">Murong Zhou, Baifu Zuo, Guohua Wang, Gongning Luo, <b>Fanding Li</b>, et al. Adjacency-Aware Fuzzy Label Learning for Skin Disease Diagnosis [J]. IEEE Transactions on Fuzzy Systems, 2024. <b>(JCR Q1, IF=11.9)</b></span>
 
 - <span style="font-size:16px;">Xiangyu Li, Chenglin Wang, Qiantong Shen, <b>Fanding Li</b>, et al. PCA-Enhanced Probabilistic U-Net for Effective Ambiguous Medical Image Segmentation. IEEE ISBI, 2026. <b>(CCF-C Conference)</b></span>
+
+Competitions
+======
+-  <font size=3> National Grand Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM), 2022</font>
+-  <font size=3> Meritorious Winner‌, Interdisciplinary Contest In Modeling (ICM), 2022</font>
+-  <font size=3> National Grand Prize, National English Competition for College Students (NECCS), 2022</font>
+-  <font size=3> Provincial‌ Grand Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM), 2021</font>
