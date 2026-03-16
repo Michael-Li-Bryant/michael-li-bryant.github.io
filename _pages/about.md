@@ -36,7 +36,7 @@ Awards and Honors
 Representative Publications
 ======
 - <span style="font-size:16px;"><b>Fanding Li</b>, Xiangyu Li, Xianghe Su, et al. Ambiguity-aware Truncated Flow Matching for Ambiguous Medical Image Segmentation. Proceedings of the AAAI Conference on Artificial Intelligence 40 (AAAI). <b>(Top Conference, Oral Presentation)</b></span>
-- <span style="font-size:16px;">Xiangyu Li#, <b>Fanding Li#</b>, Yongfeng Yuan, et al. PLATO: ProbabiListic hierArchical mulTi-head mOdel for Plug-and-play Ambiguous Medical Image Segmentation. Knowledge-based Systems 2026, 115746. <b>(Equal contribution, first student contributor, JCR Q1, IF=7.9)</b></span>
+- <span style="font-size:16px;">Xiangyu Li#, <b>Fanding Li#</b>, Yongfeng Yuan, et al. PLATO: ProbabiListic hierArchical mulTi-head mOdel for Plug-and-play Ambiguous Medical Image Segmentation. Knowledge-based Systems 2026, 115746. <b>(Equal contribution, first student contributor, JCR Q1, IF=7.6)</b></span>
 - <span style="font-size:16px;">Xiangyu Li, <b>Fanding Li</b>, Yifan Liu, et al. ResDiff: Residual Diffusion Model for Conditional Distribution Learning in Medical Image Segmentation. IEEE ISBI, 2026. <b>(first student contributor)</b></span>
 
 Selected Publications
