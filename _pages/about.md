@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<font size=3> I am currently a second-year Ph.D. student at Harbin Institute of Technology supervised by Professor </font> [<font size=3>Gongning Luo</font>](https://homepage.hit.edu.cn/luogongning?lang=zh). <font size=3> I also work closely with Professor Kuanquan Wang, Xiangyu Li and Shuo Li. I have published a total of 3 Chinese patents and 9 peer-reviewed journal/conference articles, including AAAI, CVPR, IEEE J-BHI, IEEE TFS etc.</font>
+<font size=3> I am currently a second-year Ph.D. student at Harbin Institute of Technology supervised by Professor </font> [<font size=3>Gongning Luo</font>](https://homepage.hit.edu.cn/luogongning?lang=zh). <font size=3> I also work closely with Professor Kuanquan Wang, Xiangyu Li and Shuo Li. I have published a total of 3 Chinese patents and 11 peer-reviewed journal/conference articles, including AAAI, CVPR, IEEE J-BHI, IEEE TFS, MICCAI etc.</font>
 
 Research Interests
 ======
@@ -14,6 +14,8 @@ Research Interests
 
 News
 ====== 
+  - <font size=3> 2026-03 One paper was selected as MICCAI 2026 Presentation. </font>
+ 
  - <font size=3> 2026-03 One paper was accepted by Knowledge-based Systems. </font>
 
  - <font size=3> 2025-11 One paper was selected as AAAI-26 Oral Presentation. </font>
@@ -36,6 +38,7 @@ Awards and Honors
 Representative Publications
 ======
 - <span style="font-size:16px;"><b>Fanding Li</b>, Xiangyu Li, Xianghe Su, et al. Ambiguity-aware Truncated Flow Matching for Ambiguous Medical Image Segmentation. Proceedings of the AAAI Conference on Artificial Intelligence 40 (AAAI). <b>(Top Conference, Oral Presentation)</b></span>
+- <span style="font-size:16px;"><b>Fanding Li</b>, Chenglin Wang, Xiangyu Li, et al. KANResDiff: Learning Local Residual Diffusion via Kolmogorov-Arnold Network for Ambiguous Medical Image Segmentation. International Conference on Medical Image Computing and Computer-Assisted Intervention. Cham: Springer Nature Switzerland, 2026. <b>(Top Conference on Medical Image Analysis)</b></span>
 - <span style="font-size:16px;">Xiangyu Li#, <b>Fanding Li#</b>, Yongfeng Yuan, et al. PLATO: ProbabiListic hierArchical mulTi-head mOdel for Plug-and-play Ambiguous Medical Image Segmentation. Knowledge-based Systems 2026, 115746. <b>(Equal contribution, first student contributor, JCR Q1, IF=7.6)</b></span>
 - <span style="font-size:16px;">Xiangyu Li, <b>Fanding Li</b>, Yifan Liu, et al. ResDiff: Residual Diffusion Model for Conditional Distribution Learning in Medical Image Segmentation. IEEE ISBI, 2026. <b>(first student contributor)</b></span>
 
