@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<font size=3> I am currently a second-year Ph.D. student at Harbin Institute of Technology supervised by Professor </font> [<font size=3>Gongning Luo</font>](https://homepage.hit.edu.cn/luogongning?lang=zh). <font size=3> I also work closely with Professor Kuanquan Wang, Xiangyu Li and Shuo Li. I have published a total of 6 Chinese patents and 11 peer-reviewed journal/conference articles, including AAAI, CVPR, IEEE J-BHI, IEEE TFS, MICCAI etc.</font>
+<font size=3> I am currently a third-year Ph.D. student at Harbin Institute of Technology supervised by Professor </font> [<font size=3>Gongning Luo</font>](https://homepage.hit.edu.cn/luogongning?lang=zh). <font size=3> I also work closely with Professor Kuanquan Wang, Xiangyu Li and Shuo Li. I have published a total of 6 Chinese patents and 11 peer-reviewed journal/conference articles, including AAAI, CVPR, IEEE J-BHI, IEEE TFS, MICCAI etc.</font>
 
 Research Interests
 ======
