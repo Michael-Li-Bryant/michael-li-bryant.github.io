@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<font size=3> I am currently a second-year Ph.D. student at Harbin Institute of Technology supervised by Professor </font> [<font size=3>Gongning Luo</font>](https://homepage.hit.edu.cn/luogongning?lang=zh). <font size=3> I also work closely with Professor Kuanquan Wang, Xiangyu Li and Shuo Li. I have published a total of 3 Chinese patents and 11 peer-reviewed journal/conference articles, including AAAI, CVPR, IEEE J-BHI, IEEE TFS, MICCAI etc.</font>
+<font size=3> I am currently a second-year Ph.D. student at Harbin Institute of Technology supervised by Professor </font> [<font size=3>Gongning Luo</font>](https://homepage.hit.edu.cn/luogongning?lang=zh). <font size=3> I also work closely with Professor Kuanquan Wang, Xiangyu Li and Shuo Li. I have published a total of 6 Chinese patents and 11 peer-reviewed journal/conference articles, including AAAI, CVPR, IEEE J-BHI, IEEE TFS, MICCAI etc.</font>
 
 Research Interests
 ======
-<font size=3> My major research interest are medical image analysis and computer vision. My special focuses include: (1) Ambiguous medical image segmentation; (2) Ultrasound Localization Microscopy; (3) Quality control for multimodal medical imaging.</font> 
+<font size=3> My major research interest are medical image analysis and computer vision. My special focuses include: (1) Ambiguous medical image segmentation; (2) Ultrasound localization microscopy; (3) Quality control for multimodal medical imaging.</font> 
 
 News
 ====== 
